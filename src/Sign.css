@@ -1,0 +1,22 @@
+.text{
+    padding-bottom: 50px;
+}
+.btn{
+    width: 265px;
+    margin: 1; 
+    float: none; 
+    margin-bottom: 5px;
+}
+.card{
+    width: 300px;
+    height: 520px;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 5px; 
+    margin-top: 85px;
+
+}
+.form-label{
+    width: 300px;
+    
+}
